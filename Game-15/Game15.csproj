@@ -8,8 +8,8 @@
     <ProjectGuid>{315457B2-F729-4ECC-B4B3-A0C4D0B226CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IgraS15</RootNamespace>
-    <AssemblyName>IgraS15</AssemblyName>
+    <RootNamespace>Game15</RootNamespace>
+    <AssemblyName>Game-15</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
